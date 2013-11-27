@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "description": "<%= description %>",
   "license": "<%= licenses %>",
+  "author": "",
+  "repository": "",
   "dependencies": {
     "grunt-bump": "0.0.11"
   }
