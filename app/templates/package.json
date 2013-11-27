@@ -1,6 +1,8 @@
 {
-  "name": "package",
+  "name": "<%= name %>",
   "version": "0.0.0",
+  "description": "<%= description %>",
+  "license": "<%= licenses %>",
   "dependencies": {
     "grunt-bump": "0.0.11"
   }

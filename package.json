@@ -1,6 +1,6 @@
 {
   "name": "generator-npm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Yeoman generator for npm package",
   "keywords": [
     "yeoman-generator"
@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "yeoman-generator": "~0.13.0",
-    "colors": "~0.6.2"
+    "colors": "~0.6.2",
+    "underscore": "~1.5.2"
   },
   "devDependencies": {
     "mocha": "~1.12.0"
