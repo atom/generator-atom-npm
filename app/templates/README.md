@@ -6,4 +6,4 @@
 License
 =======
 
-<%= license %>
+<%= licenses %>
