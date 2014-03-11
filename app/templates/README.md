@@ -1,9 +1,3 @@
-<%= name %>
-===========
+# <%= name %>
 
 <%= description %>
-
-License
-=======
-
-<%= licenses %>
