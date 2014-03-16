@@ -15,7 +15,7 @@ Usage:
 
 ```
 npm install -g yo
-npm install -g git+ssh://git@github.com/atom/generator-atom-npm.git
+npm install -g git+https://github.com/atom/generator-atom-npm.git
 mkdir my-package
 cd my-package
 yo atom-npm
